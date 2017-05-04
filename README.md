@@ -10,7 +10,7 @@ Clone current repo in the plugins directory:
 
 ```bash
 cd $REDMINE_ROOT
-git clone git://github.com/mavimo/redmine_cors.git plugins/redmine_cors
+git clone https://github.com/masonwu1762/redmine_cors.git plugins/redmine_cors
 ```
 
 and restart webserver to load plugins.
